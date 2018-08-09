@@ -1,0 +1,7 @@
+{
+    "require": {
+        "duncan3dc/fork-helper": "^2.2",
+        "jublonet/codebird-php": "^3.1",
+        "consolidation/log": "^1.0"
+    }
+}
