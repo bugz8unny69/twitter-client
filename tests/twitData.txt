@@ -1,0 +1,331 @@
+Array
+(
+    [created_at] => Sun Aug 12 18:17:58 +0000 2018
+    [id] => 1028707177568108545
+    [id_str] => 1028707177568108545
+    [text] => Caribana 2018 Vlog/Highlights
+https://t.co/l17QfadQoV
+
+#Caribana2018 
+#SmallYouTuberArmy 
+#smallyoutuber… https://t.co/4qyC6nmSs7
+    [source] => <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    [truncated] => 1
+    [in_reply_to_status_id] => 
+    [in_reply_to_status_id_str] => 
+    [in_reply_to_user_id] => 
+    [in_reply_to_user_id_str] => 
+    [in_reply_to_screen_name] => 
+    [user] => Array
+        (
+            [id] => 832711702273593344
+            [id_str] => 832711702273593344
+            [name] => DJ
+            [screen_name] => ItsDJ13
+            [location] => 
+            [url] => https://www.youtube.com/channel/UCj116pPPdMxEBuEPhn2vnAA
+            [description] => Positive Vibes Only
+Future YouTuber
+Videos Every Monday and Thursday!!
+#SmallYoutuber #YouTubeGamer #YouTubeGaming
+            [translator_type] => none
+            [protected] => 
+            [verified] => 
+            [followers_count] => 277
+            [friends_count] => 216
+            [listed_count] => 4
+            [favourites_count] => 1008
+            [statuses_count] => 4862
+            [created_at] => Fri Feb 17 22:01:55 +0000 2017
+            [utc_offset] => 
+            [time_zone] => 
+            [geo_enabled] => 
+            [lang] => en
+            [contributors_enabled] => 
+            [is_translator] => 
+            [profile_background_color] => 000000
+            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+            [profile_background_tile] => 
+            [profile_link_color] => 000000
+            [profile_sidebar_border_color] => 000000
+            [profile_sidebar_fill_color] => 000000
+            [profile_text_color] => 000000
+            [profile_use_background_image] => 
+            [profile_image_url] => http://pbs.twimg.com/profile_images/954935242439053317/0tkuB4wg_normal.jpg
+            [profile_image_url_https] => https://pbs.twimg.com/profile_images/954935242439053317/0tkuB4wg_normal.jpg
+            [profile_banner_url] => https://pbs.twimg.com/profile_banners/832711702273593344/1516509251
+            [default_profile] => 
+            [default_profile_image] => 
+            [following] => 
+            [follow_request_sent] => 
+            [notifications] => 
+        )
+
+    [geo] => 
+    [coordinates] => 
+    [place] => 
+    [contributors] => 
+    [is_quote_status] => 
+    [extended_tweet] => Array
+        (
+            [full_text] => Caribana 2018 Vlog/Highlights
+https://t.co/l17QfadQoV
+
+#Caribana2018 
+#SmallYouTuberArmy 
+#smallyoutuber 
+#SmallYouTubeCommunity
+
+@TheYTForum 
+@RTSmallYouTuber 
+@ServingRetweets 
+@retweet_videos 
+@SYTCreators
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 208
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => Caribana2018
+                                    [indices] => Array
+                                        (
+                                            [0] => 55
+                                            [1] => 68
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => SmallYouTuberArmy
+                                    [indices] => Array
+                                        (
+                                            [0] => 70
+                                            [1] => 88
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [text] => smallyoutuber
+                                    [indices] => Array
+                                        (
+                                            [0] => 90
+                                            [1] => 104
+                                        )
+
+                                )
+
+                            [3] => Array
+                                (
+                                    [text] => SmallYouTubeCommunity
+                                    [indices] => Array
+                                        (
+                                            [0] => 106
+                                            [1] => 128
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/l17QfadQoV
+                                    [expanded_url] => https://youtu.be/FCXpD0uIGI8
+                                    [display_url] => youtu.be/FCXpD0uIGI8
+                                    [indices] => Array
+                                        (
+                                            [0] => 30
+                                            [1] => 53
+                                        )
+
+                                )
+
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => TheYTForum
+                                    [name] => YouTube Forum
+                                    [id] => 709396233664729088
+                                    [id_str] => 709396233664729088
+                                    [indices] => Array
+                                        (
+                                            [0] => 130
+                                            [1] => 141
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [screen_name] => RTSmallYouTuber
+                                    [name] => Small YouTubers
+                                    [id] => 909430755566039040
+                                    [id_str] => 909430755566039040
+                                    [indices] => Array
+                                        (
+                                            [0] => 143
+                                            [1] => 159
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [screen_name] => ServingRetweets
+                                    [name] => RETWEET🌴SERVICE 🍉
+                                    [id] => 54810186
+                                    [id_str] => 54810186
+                                    [indices] => Array
+                                        (
+                                            [0] => 161
+                                            [1] => 177
+                                        )
+
+                                )
+
+                            [3] => Array
+                                (
+                                    [screen_name] => retweet_videos
+                                    [name] => Youtube Retweet
+                                    [id] => 2854119026
+                                    [id_str] => 2854119026
+                                    [indices] => Array
+                                        (
+                                            [0] => 179
+                                            [1] => 194
+                                        )
+
+                                )
+
+                            [4] => Array
+                                (
+                                    [screen_name] => SYTCreators
+                                    [name] => SYTCreators ™️
+                                    [id] => 3903506989
+                                    [id_str] => 3903506989
+                                    [indices] => Array
+                                        (
+                                            [0] => 196
+                                            [1] => 208
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [quote_count] => 0
+    [reply_count] => 0
+    [retweet_count] => 0
+    [favorite_count] => 0
+    [entities] => Array
+        (
+            [hashtags] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Caribana2018
+                            [indices] => Array
+                                (
+                                    [0] => 55
+                                    [1] => 68
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [text] => SmallYouTuberArmy
+                            [indices] => Array
+                                (
+                                    [0] => 70
+                                    [1] => 88
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [text] => smallyoutuber
+                            [indices] => Array
+                                (
+                                    [0] => 90
+                                    [1] => 104
+                                )
+
+                        )
+
+                )
+
+            [urls] => Array
+                (
+                    [0] => Array
+                        (
+                            [url] => https://t.co/l17QfadQoV
+                            [expanded_url] => https://youtu.be/FCXpD0uIGI8
+                            [display_url] => youtu.be/FCXpD0uIGI8
+                            [indices] => Array
+                                (
+                                    [0] => 30
+                                    [1] => 53
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [url] => https://t.co/4qyC6nmSs7
+                            [expanded_url] => https://twitter.com/i/web/status/1028707177568108545
+                            [display_url] => twitter.com/i/web/status/1…
+                            [indices] => Array
+                                (
+                                    [0] => 106
+                                    [1] => 129
+                                )
+
+                        )
+
+                )
+
+            [user_mentions] => Array
+                (
+                )
+
+            [symbols] => Array
+                (
+                )
+
+        )
+
+    [favorited] => 
+    [retweeted] => 
+    [possibly_sensitive] => 
+    [filter_level] => low
+    [lang] => en
+    [timestamp_ms] => 1534097878244
+    [httpstatus] => 200
+    [rate] => 
+)
