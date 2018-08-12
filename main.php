@@ -1,23 +1,26 @@
 <?php
 
-/** 
- * Twitter Client begining!
+/**
+ * This file is part of LHPROJECTS Twitter Client package
+ *
+ * (c) Lutchy Horace <lutchy.horace@lhpmail.us>
+ *
  * PHP Version 7.2
- * 
- * @category Twitter-client-Main
- * @package  TwitterClientMain
- * @author   Lutchy Horace <lutchy.horace@lhpmail.us>
- * @license  GNU 3.0
- * @link     https://github.com/lhorace/twitter-client/LICENSE
- **/
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ *
+ */
 
 
 // Initialize first
 require 'config.php';
 require 'vendor/autoload.php';
-require 'twitter-client.php';
+require 'Tweet.php';
+require 'TweetPost.php';
+require 'TwitterClient.php';
 
 // Require all the clases I need here
+use TwitterClient\TwitterClient as TwitterClient;
 use Codebird\Codebird as Twitter;
 use Consolidation\Log\Logger as Logger;
 use Consolidation\Log\LogOutputStyler as LogOutputStyler;
@@ -29,23 +32,14 @@ $logger = new Logger($output);
 $logger->setLogOutputStyler(new LogOutputStyler());
 
 // MY TwitterClient
-$tc = new TwitterClient;
+$tc = new TwitterClient();
 
-// Auth to twitter
-Twitter::setConsumerKey(TWITTER_CONSUMER_KEY, TWITTER_CONSUMER_SECRET);
-$twitter = Twitter::getInstance();
-$twitter->setUseCurl(false);
-$twitter->setReturnFormat(CODEBIRD_RETURNFORMAT_ARRAY);
-$twitter->setToken(TWITTER_ACCESS_TOKEN, TWITTER_ACCESS_TOKEN_SECRET);
+echo "Now running!\r\n";
+if (empty($_SERVER['PRE_START'])) {
 
-$twitter->setStreamingCallback([$tc, 'streamingThreadCallback']);
+   // $tc->startStreamingThread();
+}
 
-$params = ['track' => 'youtu be #smallyoutuber,youtube com #smallyoutuber,youtu be #smallyoutubers,youtube com #smallyoutubers,youtu be #smallyoutuber ChannelsSmall,youtube com #smallyoutuber ChannelsSmall,youtu be #smallyoutubers ChannelsSmall,youtube com #smallyoutubers ChannelsSmall'];
-$reply = $twitter->statuses_filter($params);
-
-
-
-var_dump($reply);
 
 //$reply = $twitter->user();
 
